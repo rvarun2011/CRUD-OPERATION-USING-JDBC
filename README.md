@@ -12,6 +12,7 @@ CRUD operations are essential for managing data in any application or system, an
 
 mysql> use mydb;
 Database changed
+
 mysql> CREATE TABLE IF NOT EXISTS books (
     Book_Id INT,
     Title VARCHAR(255),
